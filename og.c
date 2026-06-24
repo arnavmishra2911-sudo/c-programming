@@ -2,7 +2,7 @@
 
 // gcc is gnu c compiler which convert human language to computer language to execute code its fullform is GNU Compiler Collection
 int main(){ for (int i = 1; i <= 20; i++)
-{
+{ 
     if (i < 5)
         continue;
 
